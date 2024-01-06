@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Usman-N123
+- 👋 Hi, I’m Usman Naeem
 
 - 👨🏻‍💻 Passionate about coding and tackling complex challenges head-on. Skilled in C++, NASM Assembly, Node JS, HTML, CSS, and diving into Python. Adept at crafting efficient data structures and leveraging OOP principles.
 
